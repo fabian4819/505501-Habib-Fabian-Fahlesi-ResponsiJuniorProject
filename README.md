@@ -24,7 +24,7 @@ Proyek ini adalah aplikasi sederhana untuk manajemen karyawan yang dibangun meng
 2. **Cloning Repository**  
    Clone repository ini ke komputer Anda:  
    ```bash
-   git clone https://github.com/username/505501-HabibFabianFahlesi-ResponsiJuniorProject.git
+   git clone https://github.com/fabian4819/505501-Habib-Fabian-Fahlesi-ResponsiJuniorProject.git
 3. **Membuka Proyek**
     - Buka Visual Studio dan pilih Open a Project or Solution.
     - Arahkan ke folder proyek yang telah di-clone.
